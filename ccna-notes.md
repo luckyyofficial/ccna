@@ -72,3 +72,5 @@ Before diving into routers, switches, and configurations, it's important to unde
 ---
 
 > 🔄 **Next Suggested Topic:** OSI Model – The 7 Layers of Networking
+
+
