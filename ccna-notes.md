@@ -51,7 +51,7 @@ Before diving into routers, switches, and configurations, it's important to unde
 | **IP Address**| A unique number assigned to each device on a network         |
 
 ---
-
+  
 ## 📂 Types of Networks
 
 | Type      | Description                                 |
