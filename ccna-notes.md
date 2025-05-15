@@ -38,7 +38,7 @@ Before diving into routers, switches, and configurations, it's important to unde
 - 🌐 **Internet Access** – Enables devices to connect to the web
 - 💼 **Centralized Management** – Manage systems from one place in a business or enterprise
 
----
+---  
 
 ## 🧱 Basic Components of a Network
 
