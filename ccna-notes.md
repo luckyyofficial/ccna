@@ -20,9 +20,9 @@
 Class C IP Range: 192.0.0.0 – 223.255.255.255
 Default Subnet Mask: 255.255.255.0
 # 🌐 Introduction to Networking (For Beginners)
-
+ 
 Before diving into routers, switches, and configurations, it's important to understand the basics of networking — the core of CCNA.
-
+ 
 ---
 
 ## 🧠 What is Networking?
