@@ -14,7 +14,7 @@
 - 🔐 **Network Security**
 - ☁️ **Wireless & Cloud Fundamentals**
 - 🤖 **Network Automation & Programmability**
-
+  
 ### 📘 Example: IP Addressing
 ```text
 Class C IP Range: 192.0.0.0 – 223.255.255.255
